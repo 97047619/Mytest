@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mconaghan
+ *
+ */
+module HelloWorld {
+}
